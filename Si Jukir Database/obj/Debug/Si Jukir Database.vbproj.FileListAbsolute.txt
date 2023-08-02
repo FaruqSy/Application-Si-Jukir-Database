@@ -1,0 +1,72 @@
+C:\Users\Amin Nursoleh\AppData\Local\Temporary Projects\Si Jukir Database\bin\Debug\Si Jukir Database.exe.config
+E:\PNM\Semester 5\Si Jukir Database\Si Jukir Database\bin\Debug\Si Jukir Database.exe.config
+E:\PNM\Semester 5\Si Jukir Database\Si Jukir Database\bin\Debug\Si Jukir Database.exe
+E:\PNM\Semester 5\Si Jukir Database\Si Jukir Database\bin\Debug\Si Jukir Database.pdb
+E:\PNM\Semester 5\Si Jukir Database\Si Jukir Database\bin\Debug\Si Jukir Database.xml
+E:\PNM\Semester 5\Si Jukir Database\Si Jukir Database\obj\Debug\Si_Jukir_Database.Form1.resources
+E:\PNM\Semester 5\Si Jukir Database\Si Jukir Database\obj\Debug\Si_Jukir_Database.Resources.resources
+E:\PNM\Semester 5\Si Jukir Database\Si Jukir Database\obj\Debug\Si Jukir Database.vbproj.GenerateResource.Cache
+E:\PNM\Semester 5\Si Jukir Database\Si Jukir Database\obj\Debug\Si Jukir Database.exe
+E:\PNM\Semester 5\Si Jukir Database\Si Jukir Database\obj\Debug\Si Jukir Database.xml
+E:\PNM\Semester 5\Si Jukir Database\Si Jukir Database\obj\Debug\Si Jukir Database.pdb
+E:\PNM\Semester 5\Si Jukir Database\Si Jukir Database\obj\Debug\Si Jukir Database.vbprojResolveAssemblyReference.cache
+E:\PNM\Semester 5\Si Jukir Database\Si Jukir Database\bin\Debug\Microsoft.Expression.DesignHost.dll
+E:\PNM\Semester 5\Si Jukir Database\Si Jukir Database\bin\Debug\Microsoft.Expression.Utility.dll
+E:\PNM\Semester 5\Si Jukir Database\Si Jukir Database\bin\Debug\en\Microsoft.Expression.DesignHost.resources.dll
+E:\PNM\Semester 5\Si Jukir Database\Si Jukir Database\bin\Debug\en\Microsoft.Expression.Utility.resources.dll
+E:\PNM\Semester 5\Si Jukir Database\Si Jukir Database\bin\Debug\Database1.mdf
+E:\PNM\Semester 5\Si Jukir Database\Si Jukir Database\bin\Debug\Database1_log.ldf
+E:\PNM\Semester 5\Si Jukir Database\Si Jukir Database\bin\Debug\Si Jukir Database.exe.manifest
+E:\PNM\Semester 5\Si Jukir Database\Si Jukir Database\bin\Debug\Si Jukir Database.application
+E:\PNM\Semester 5\Si Jukir Database\Si Jukir Database\obj\Debug\Si Jukir Database.exe.manifest
+E:\PNM\Semester 5\Si Jukir Database\Si Jukir Database\obj\Debug\Si Jukir Database.application
+E:\PNM\Semester 5\Si Jukir Database\Si Jukir Database\obj\Debug\Si Jukir Database.vbproj.ResolveComReference.cache
+E:\PNM\Semester 5\Si Jukir Database - Copy (5)\Si Jukir Database\bin\Debug\Si Jukir Database.exe.config
+E:\PNM\Semester 5\Si Jukir Database - Copy (5)\Si Jukir Database\obj\Debug\Si Jukir Database.vbproj.ResolveComReference.cache
+E:\PNM\Semester 5\Si Jukir Database - Copy (5)\Si Jukir Database\obj\Debug\Si Jukir Database.exe
+E:\PNM\Semester 5\Si Jukir Database - Copy (5)\Si Jukir Database\obj\Debug\Si Jukir Database.xml
+E:\PNM\Semester 5\Si Jukir Database - Copy (5)\Si Jukir Database\obj\Debug\Si Jukir Database.pdb
+E:\PNM\Semester 5\Si Jukir Database - Copy (5)\Si Jukir Database\bin\Debug\Database1.mdf
+E:\PNM\Semester 5\Si Jukir Database - Copy (5)\Si Jukir Database\bin\Debug\Database1_log.ldf
+E:\PNM\Semester 5\Si Jukir Database - Copy (5)\Si Jukir Database\bin\Debug\Si Jukir Database.exe.manifest
+E:\PNM\Semester 5\Si Jukir Database - Copy (5)\Si Jukir Database\bin\Debug\Si Jukir Database.application
+E:\PNM\Semester 5\Si Jukir Database - Copy (5)\Si Jukir Database\bin\Debug\Si Jukir Database.exe
+E:\PNM\Semester 5\Si Jukir Database - Copy (5)\Si Jukir Database\bin\Debug\Si Jukir Database.pdb
+E:\PNM\Semester 5\Si Jukir Database - Copy (5)\Si Jukir Database\bin\Debug\Si Jukir Database.xml
+E:\PNM\Semester 5\Si Jukir Database - Copy (5)\Si Jukir Database\bin\Debug\Microsoft.Expression.DesignHost.dll
+E:\PNM\Semester 5\Si Jukir Database - Copy (5)\Si Jukir Database\bin\Debug\Microsoft.Expression.Utility.dll
+E:\PNM\Semester 5\Si Jukir Database - Copy (5)\Si Jukir Database\bin\Debug\en\Microsoft.Expression.DesignHost.resources.dll
+E:\PNM\Semester 5\Si Jukir Database - Copy (5)\Si Jukir Database\bin\Debug\en\Microsoft.Expression.Utility.resources.dll
+E:\PNM\Semester 5\Si Jukir Database - Copy (5)\Si Jukir Database\obj\Debug\Si Jukir Database.vbprojResolveAssemblyReference.cache
+E:\PNM\Semester 5\Si Jukir Database - Copy (5)\Si Jukir Database\obj\Debug\Si_Jukir_Database.Form1.resources
+E:\PNM\Semester 5\Si Jukir Database - Copy (5)\Si Jukir Database\obj\Debug\Si_Jukir_Database.Resources.resources
+E:\PNM\Semester 5\Si Jukir Database - Copy (5)\Si Jukir Database\obj\Debug\Si Jukir Database.vbproj.GenerateResource.Cache
+E:\PNM\Semester 5\Si Jukir Database - Copy (5)\Si Jukir Database\obj\Debug\Si Jukir Database.exe.manifest
+E:\PNM\Semester 5\Si Jukir Database - Copy (5)\Si Jukir Database\obj\Debug\Si Jukir Database.application
+G:\Si Jukir Database - Copy (5)\Si Jukir Database\bin\Debug\Si Jukir Database.exe.config
+G:\Si Jukir Database - Copy (5)\Si Jukir Database\obj\Debug\Si Jukir Database.vbproj.ResolveComReference.cache
+G:\Si Jukir Database - Copy (5)\Si Jukir Database\obj\Debug\Si Jukir Database.exe
+G:\Si Jukir Database - Copy (5)\Si Jukir Database\obj\Debug\Si Jukir Database.xml
+G:\Si Jukir Database - Copy (5)\Si Jukir Database\obj\Debug\Si Jukir Database.pdb
+C:\Users\LENOVO\Downloads\Si Jukir Database DISHUB\Si Jukir Database\obj\Debug\Si Jukir Database.vbproj.ResolveComReference.cache
+C:\Users\LENOVO\Downloads\Si Jukir Database DISHUB\Si Jukir Database\bin\Debug\Database1.mdf
+C:\Users\LENOVO\Downloads\Si Jukir Database DISHUB\Si Jukir Database\bin\Debug\Database1_log.ldf
+C:\Users\LENOVO\Downloads\Si Jukir Database DISHUB\Si Jukir Database\bin\Debug\Microsoft.Expression.DesignHost.dll
+C:\Users\LENOVO\Downloads\Si Jukir Database DISHUB\Si Jukir Database\bin\Debug\Microsoft.Expression.Utility.dll
+C:\Users\LENOVO\Downloads\Si Jukir Database DISHUB\Si Jukir Database\bin\Debug\en\Microsoft.Expression.DesignHost.resources.dll
+C:\Users\LENOVO\Downloads\Si Jukir Database DISHUB\Si Jukir Database\bin\Debug\en\Microsoft.Expression.Utility.resources.dll
+C:\Users\LENOVO\Downloads\Si Jukir Database DISHUB\Si Jukir Database\obj\Debug\Si Jukir Database.vbprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Downloads\Si Jukir Database DISHUB\Si Jukir Database\obj\Debug\Si Jukir Database.vbproj.GenerateResource.Cache
+C:\Users\LENOVO\Downloads\Si Jukir Database DISHUB\Si Jukir Database\bin\Debug\Si Jukir Database Baru.exe.config
+C:\Users\LENOVO\Downloads\Si Jukir Database DISHUB\Si Jukir Database\bin\Debug\Si Jukir Database Baru.exe.manifest
+C:\Users\LENOVO\Downloads\Si Jukir Database DISHUB\Si Jukir Database\bin\Debug\Si Jukir Database Baru.application
+C:\Users\LENOVO\Downloads\Si Jukir Database DISHUB\Si Jukir Database\bin\Debug\Si Jukir Database Baru.exe
+C:\Users\LENOVO\Downloads\Si Jukir Database DISHUB\Si Jukir Database\bin\Debug\Si Jukir Database Baru.pdb
+C:\Users\LENOVO\Downloads\Si Jukir Database DISHUB\Si Jukir Database\bin\Debug\Si Jukir Database Baru.xml
+C:\Users\LENOVO\Downloads\Si Jukir Database DISHUB\Si Jukir Database\obj\Debug\Si_Jukir_Database_Baru.Form1.resources
+C:\Users\LENOVO\Downloads\Si Jukir Database DISHUB\Si Jukir Database\obj\Debug\Si_Jukir_Database_Baru.Resources.resources
+C:\Users\LENOVO\Downloads\Si Jukir Database DISHUB\Si Jukir Database\obj\Debug\Si Jukir Database Baru.exe.manifest
+C:\Users\LENOVO\Downloads\Si Jukir Database DISHUB\Si Jukir Database\obj\Debug\Si Jukir Database Baru.application
+C:\Users\LENOVO\Downloads\Si Jukir Database DISHUB\Si Jukir Database\obj\Debug\Si Jukir Database Baru.exe
+C:\Users\LENOVO\Downloads\Si Jukir Database DISHUB\Si Jukir Database\obj\Debug\Si Jukir Database Baru.xml
+C:\Users\LENOVO\Downloads\Si Jukir Database DISHUB\Si Jukir Database\obj\Debug\Si Jukir Database Baru.pdb
